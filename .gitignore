@@ -1,6 +1,3 @@
-
-playlists\.txt
-
+.ignore/
 .idea/
-
 env/
