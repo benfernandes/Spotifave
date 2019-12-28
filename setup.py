@@ -10,6 +10,7 @@ setup(
     install_requires=[
         'spotipy',
         'matplotlib',
-        'squarify'
+        'squarify',
+        'attrs'
     ]
 )
