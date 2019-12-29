@@ -4,6 +4,10 @@
         "client_secret": "CLIENT_SECRET"
     },
     "spotify": {
+        "user_uri": "USER_URI",
         "playlist_uri": "PLAYLIST_URI"
+    },
+    "settings": {
+        "max_artists": MAX_ARTISTS
     }
 }
